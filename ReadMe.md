@@ -1,3 +1,15 @@
+# RNCourse
+React_Native Course Inspired by Udemy course by Academind  https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197320#overview
+
+## Core Components, Styling, & Colors
+
+**A typical skeleton for a React Native Component**
+
+1. Import of the components from react-native
+2. Functional Component
+3. Stylesheet
+
+```
 import { StyleSheet, Text, View, Button } from 'react-native';
 
 export default function App() {
@@ -19,11 +31,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  secondText: {
-    margin: 16, 
-    borderWidth: 2, 
-    borderColor: 'blue', 
-    padding: 16
-  },
 });
 
+```
