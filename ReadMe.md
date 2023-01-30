@@ -1,6 +1,8 @@
 # RNCourse
 React_Native Course Inspired by Udemy course by Academind  https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197320#overview
 
+**Do not touch web support option when loading expo- it will break the applaication!!!**
+
 ## Core Components, Styling, & Colors
 
 **A typical skeleton for a React Native Component**
@@ -34,3 +36,4 @@ const styles = StyleSheet.create({
 });
 
 ```
+
